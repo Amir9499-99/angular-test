@@ -1,0 +1,31 @@
+* {
+    font-size: 11px;
+}
+
+.table {
+    background-color: #424242;
+    
+  }
+table{
+    width: 100%;
+    border-radius: 5px;
+}
+
+h2{
+    background-color: #424242;
+    color: #9CC9F5;
+    margin: 15px;
+    padding-top: 15px;
+}
+.w-75{
+    width: 100px;
+    height: 20px;
+}
+
+.mat-cell{
+    padding: 0px;
+}
+
+.mat-row {
+    height: 30px;
+}

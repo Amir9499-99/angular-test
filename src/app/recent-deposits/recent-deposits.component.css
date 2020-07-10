@@ -1,0 +1,33 @@
+h2{
+    color: #9CC9F5;
+    margin-left: 15px;
+    padding-top: 10px;
+
+}
+
+h1{
+    color: white;
+    margin: 0 15px;
+}
+
+.recent{
+    background-color: #424242;
+    width: 360px;
+    height: 238px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
+
+p{
+    color: #A4A4A4;
+    margin: 0 15px;
+}
+
+.viewBalanace{
+    color: #9CC9F5;
+    text-decoration: none;
+    margin-left: 15px;
+}
+

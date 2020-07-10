@@ -1,0 +1,14 @@
+
+
+.chart{
+    float: left;
+    border-radius: 5px;
+}
+
+.table{
+    clear: both;
+}
+
+.recent{
+    float: right;
+}

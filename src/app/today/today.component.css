@@ -1,0 +1,38 @@
+*{
+    color:#A9A9A9;
+    margin-top: 20px;
+}
+
+.mat-typography{
+    background-color: #424242;
+}
+
+#SvgjsTspan1544{
+    color:#A9A9A9 !important;
+}
+
+#chart {
+    max-width: 1000px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #424242;
+    border-radius: 5px;
+  }
+
+.apexcharts-menu-icon{
+    display: none !important;
+}
+
+tspan{
+    color: #9B9B9B !important;
+}
+
+h2{
+    color: #9CC9F5;
+    margin-left: 15px;
+    padding-top: 15px;
+
+}
+
+
+
