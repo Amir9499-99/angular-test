@@ -45,7 +45,7 @@ export class TodayComponent implements OnInit {
       ],
       chart: {
         height: 160,
-        width: 770,
+        width: 780,
         type: 'line',
         zoom: {
           enabled: false,

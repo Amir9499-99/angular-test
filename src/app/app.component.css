@@ -1,14 +1,21 @@
-
+.container{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
 
 .chart{
-    float: left;
     border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+.recent{
+    display: flex;
+    flex-direction: row;
 }
 
 .table{
     clear: both;
 }
 
-.recent{
-    float: right;
-}

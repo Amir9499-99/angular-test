@@ -12,11 +12,12 @@ h1{
 
 .recent{
     background-color: #424242;
-    width: 360px;
+    width: 350px;
     height: 238px;
     border-radius: 5px;
     margin-top: 10px;
     margin-bottom: 20px;
+    margin-left: 20px;
 
 }
 
